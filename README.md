@@ -14,4 +14,4 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 [notebooks/CNN_demo.ipynb](notebooks/CNN_demo.ipynb)
 
 ### Vision Transformer with Low Rank Adaptation Fine Tuning
-[notebooks/ViT_demo.ipynb](notebooks/ViT_demo.ipynb) - in progress
+[notebooks/ViT_demo.ipynb](notebooks/ViT_LoRa.ipynb)
